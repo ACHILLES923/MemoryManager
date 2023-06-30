@@ -1,0 +1,389 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background_pgid"
+			],
+			[
+				"bac",
+				"background_pgid"
+			],
+			[
+				"ba",
+				"background_pgid"
+			],
+			[
+				"MAX",
+				"MAX_TOKEN_SIZE"
+			],
+			[
+				"MA",
+				"MAX_NUM_TOKENS"
+			],
+			[
+				"l",
+				"last_token_changed"
+			],
+			[
+				"i",
+				"include"
+			],
+			[
+				"red",
+				"palevioletred"
+			],
+			[
+				"c",
+				"coral"
+			],
+			[
+				"get",
+				"getComputerChoice"
+			],
+			[
+				"boxs",
+				"box-sizing"
+			],
+			[
+				"quer",
+				"querySelectorAll"
+			],
+			[
+				"pla",
+				"playerSelection"
+			],
+			[
+				"co",
+				"cover"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"sec",
+				"section2"
+			],
+			[
+				"section",
+				"section3"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"sectin",
+				"section2"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"snake",
+				"snakeHeadX"
+			],
+			[
+				"tai",
+				"tailY"
+			],
+			[
+				"sna",
+				"snakeHeadY"
+			],
+			[
+				"ta",
+				"tailY"
+			],
+			[
+				"end",
+				"endY"
+			],
+			[
+				"tail",
+				"tailY"
+			],
+			[
+				"snak",
+				"snakeHeadX"
+			],
+			[
+				"fr",
+				"fruitY"
+			],
+			[
+				"na",
+				"snakeHeadY"
+			],
+			[
+				"frui",
+				"fruitX"
+			],
+			[
+				"fruit",
+				"fruitEaten"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"live",
+				"Live Server: Start"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"live server",
+				"Live Server: Start"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"live reload",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"pac",
+				"Package Control: Enable Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"jsp",
+				"JsPrettier: Format Code"
+			],
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"package",
+				"Package Control: Enable Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"livereload",
+				"Snippet: Create new LiveReload plugin"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/aditya/Desktop/OS_lab/shell-code/temp.c",
+		"/home/aditya/Desktop/OS_lab/shell-code/my_shell.c",
+		"/home/aditya/Desktop/OS_lab/shell-code/new_process.cpp",
+		"/home/aditya/Desktop/OS_lab/shell-code/temp.cpp",
+		"/home/aditya/Desktop/OS_lab/intro-code/190050007.txt",
+		"/home/aditya/Desktop/OS_lab/intro-debug-code/memory_bugs_changed.c",
+		"/home/aditya/Desktop/OS_lab/intro-debug-code/190050007.txt",
+		"/home/aditya/Desktop/temp.c",
+		"/home/aditya/Desktop/repos/rock-paper-scissor/script.js",
+		"/home/aditya/temp.cpp",
+		"/usr/share/applications/defaults.list",
+		"/home/aditya/Desktop/repos/rock-paper-scissor/styles.css",
+		"/home/aditya/Desktop/repos/rock-paper-scissor/index.html",
+		"/home/aditya/1.html",
+		"/home/aditya/.config/sublime-text-3/Packages/User/JsPrettier.sublime-settings",
+		"/home/aditya/Desktop/repos/temp/index.html",
+		"/home/aditya/Desktop/repos/temp/script.js",
+		"/home/aditya/Desktop/repos/CSS-practice/index.html",
+		"/home/aditya/Desktop/repos/CSS-practice/styles.css",
+		"/home/aditya/.config/sublime-text-3/Packages/LiveReload/LiveReload.sublime-settings",
+		"/home/aditya/.config/sublime-text-3/Packages/User/LiveReload.sublime-settings",
+		"/home/aditya/Desktop/snakeGame/main.cpp",
+		"/home/aditya/Desktop/snakeGame/temp.c",
+		"/home/aditya/Desktop/index.html",
+		"/home/aditya/Desktop/temp.cpp",
+		"/home/aditya/.config/sublime-text-3/Packages/Terminal/Default (Linux).sublime-keymap",
+		"/home/aditya/.config/sublime-text-3/Packages/Terminal/Terminal.sublime-settings"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "alloc.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 69.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
